@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/space-traveler-hub/static/css/main.5b0e33eb.css",
-    "main.js": "/space-traveler-hub/static/js/main.33bc9a08.js",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/space-traveler-hub/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
+    "main.css": "/space-traveler-hub/static/css/main.9e5ef84e.css",
+    "main.js": "/space-traveler-hub/static/js/main.1ab44d4e.js",
+    "static/media/logo.png": "/space-traveler-hub/static/media/logo.3f6fb2742f28651730c0.png",
     "index.html": "/space-traveler-hub/index.html",
-    "main.5b0e33eb.css.map": "/space-traveler-hub/static/css/main.5b0e33eb.css.map",
-    "main.33bc9a08.js.map": "/space-traveler-hub/static/js/main.33bc9a08.js.map"
+    "main.9e5ef84e.css.map": "/space-traveler-hub/static/css/main.9e5ef84e.css.map",
+    "main.1ab44d4e.js.map": "/space-traveler-hub/static/js/main.1ab44d4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b0e33eb.css",
-    "static/js/main.33bc9a08.js"
+    "static/css/main.9e5ef84e.css",
+    "static/js/main.1ab44d4e.js"
   ]
 }
